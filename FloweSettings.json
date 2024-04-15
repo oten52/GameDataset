@@ -3,14 +3,39 @@
     "FlowerType": 1,
     "HealtyImages": [
       {
-        "MinDay": 0.0,
-        "MaxDay": 10.0,
-        "Url": "https://raw.githubusercontent.com/oten52/GameDataset/main/160x150_Daisy.png"
+        "MinDay": 1,
+        "MaxDay": 2,
+        "Url": "https://raw.githubusercontent.com/oten52/GameDataset/main/1.png"
       },
-	  {
-        "MinDay": 10.0,
-        "MaxDay": 120.0,
-        "Url": "https://raw.githubusercontent.com/oten52/GameDataset/main/160x150_Daisy2.png"
+      {
+        "MinDay": 2,
+        "MaxDay": 3,
+        "Url": "https://raw.githubusercontent.com/oten52/GameDataset/main/2.png"
+      },
+      {
+        "MinDay": 3,
+        "MaxDay": 4,
+        "Url": "https://raw.githubusercontent.com/oten52/GameDataset/main/3.png"
+      },
+      {
+        "MinDay": 4,
+        "MaxDay": 5,
+        "Url": "https://raw.githubusercontent.com/oten52/GameDataset/main/4.png"
+      },
+      {
+        "MinDay": 5,
+        "MaxDay": 6,
+        "Url": "https://raw.githubusercontent.com/oten52/GameDataset/main/5.png"
+      },
+      {
+        "MinDay": 6,
+        "MaxDay": 7,
+        "Url": "https://raw.githubusercontent.com/oten52/GameDataset/main/6.png"
+      },
+      {
+        "MinDay": 7,
+        "MaxDay": 8,
+        "Url": "https://raw.githubusercontent.com/oten52/GameDataset/main/7.png"
       }
     ],
     "DiseasedImages": null
